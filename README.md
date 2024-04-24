@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like learning new technologies and currently working on building streaming data pipelines. 🕺🏽
+I like learning new technologies for data engineering and GIS. 🕺🏽
 
 **I love working with**
 
@@ -16,7 +16,7 @@ I like learning new technologies and currently working on building streaming dat
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
+- Building streaming data pipelines.
 
 ### 🌱 I’m learning
 
