@@ -21,8 +21,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/AWS_Kinesis-Kinesis-orange?style=for-the-badge&logo=amazonaws&logoColor=black" alt="AWS Kinesis"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-Kafka-black?style=for-the-badge&logo=apache&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/AWS_Kinesis-Kinesis-orange?style=for-the-badge&logo=amazonaws&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-Kafka-black?style=for-the-badge&logo=apache&logoColor=white"/>
 </div>
 
 ### 🤔 I’m looking for help with
