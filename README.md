@@ -10,8 +10,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS"/>
   <img src="https://img.shields.io/badge/Django-Django-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-ArcPro-blue?style=for-the-badge" alt="ArcPro"/>
-  <img src="https://img.shields.io/badge/SOCET_GXP-SOCET_GXP-green?style=for-the-badge" alt="SOCET GXP"/>
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-ArcPro-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOCET_GXP-SOCET_GXP-green?style=for-the-badge"/>
 </div>
 
 ### 🔭 I’m working on
