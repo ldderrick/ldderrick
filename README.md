@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I like learning new technologies and currently working on building streaming data pipelines. 🕺🏽
 
 **I love working with**
 
@@ -12,8 +12,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/Django-Django-green?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArcGIS_Pro-ArcPro-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOCET_GXP-SOCET_GXP-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/pypi/frameworkversions/django/:packageName"/>
-
 </div>
 
 ### 🔭 I’m working on
