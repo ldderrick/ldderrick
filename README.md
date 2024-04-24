@@ -12,7 +12,6 @@ I like learning new technologies for data engineering and GIS. 🕺🏽
   <img src="https://img.shields.io/badge/Django-Django-green?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArcGIS_Pro-ArcPro-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SOCET_GXP-SOCET_GXP-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-Used-blue?style=for-the-badge"/>
 </div>
 
 ### 🔭 I’m working on
