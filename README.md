@@ -37,6 +37,3 @@ I like learning new technologies and currently working on building streaming dat
   </a>
 </div>
 
-### ⚡ Fun fact
-
-I'm definitely not a cat person.
